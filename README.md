@@ -1,4 +1,3 @@
-#MyFirstProject
+# MyFirstProject
 
-#HTML
-#CSS
+`HTML` and `CSS` Course
